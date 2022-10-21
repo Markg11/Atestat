@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651662324 source:c:\info\atestat\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<windows.h>
+	<string.h>
+
